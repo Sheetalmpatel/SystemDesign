@@ -41,10 +41,10 @@ Each design pattern is implemented in its own folder with:
    git clone https://github.com/Sheetalmpatel/SystemDesign.git
 
 2. Navigate into a pattern folder:
-    bash
+   ``` bash
     cd adapter-pattern
 
 3. Compile and run the Java file:
-    bash
+   ``` bash
     javac FileName.java
     java FileName
