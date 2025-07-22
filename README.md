@@ -30,22 +30,8 @@ Each design pattern is implemented in its own folder with:
 ---
 
 ## 📂 Folder Structure
+<img width="239" height="314" alt="image" src="https://github.com/user-attachments/assets/d888767e-7cdc-4f8f-9b7a-7e5e69f93b96" />
 
-system-design/
-│
-├── adapter-pattern/
-│ ├── DollarToINR.java
-│ └── README.md
-│
-├── singleton-pattern/
-│ ├── SingletonExample.java
-│ └── README.md
-│
-├── factory-pattern/
-│ ├── ShapeFactory.java
-│ └── README.md
-│
-└── README.md <-- (this file)
 
 
 ## 🔧 How to Run
