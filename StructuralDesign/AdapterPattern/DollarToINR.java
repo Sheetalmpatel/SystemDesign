@@ -1,4 +1,4 @@
-//Title :- Adpater Pattern Design --> convert Dollar to INR
+// Title: Adapter Pattern Example - Dollar to INR Currency Converter
 
 class DollarToINR {
     public static void main(String[] args) {
