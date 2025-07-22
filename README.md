@@ -23,7 +23,7 @@ Each design pattern is implemented in its own folder with:
 
 | Pattern Name | Folder | Description |
 |--------------|--------|-------------|
-| Adapter Pattern | [`adapter-pattern`](./adapter-pattern) | Convert one interface into another expected by the client. |
+| Adapter Pattern | [`adapter-pattern`](./StructuralDesign/AdapterPattern) | Convert one interface into another expected by the client. |
 |
 | ... | ... | More coming soon! |
 
