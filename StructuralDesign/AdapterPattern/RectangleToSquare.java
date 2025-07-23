@@ -10,6 +10,7 @@ public class RectangleToSquare {
 
     }
 }
+
 class Rectangle{
     int width;
     int height;
