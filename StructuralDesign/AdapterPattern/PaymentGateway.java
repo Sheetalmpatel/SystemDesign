@@ -1,4 +1,5 @@
 //Payment Gateway Adapter: PayPal & Stripe Integration
+//here you can also create Unifiedpayment adapter to use both PayPal and Stripe
 
 public class PaymentGateway{
     public static void main(String[] args) {

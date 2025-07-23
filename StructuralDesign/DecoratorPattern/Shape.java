@@ -59,9 +59,9 @@ class RedShapDecorator extends ShapeDecorator{
     @Override
     public void draw() {
         super.draw();
-        setRedBorder(allShape);
+        setRedBorder();
     }
-     private void setRedBorder(AllShape allShape) {
+     private void setRedBorder() {
         System.out.println("Border Color: Red");
     }
 }

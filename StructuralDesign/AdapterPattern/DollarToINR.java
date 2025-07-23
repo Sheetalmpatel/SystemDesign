@@ -2,7 +2,7 @@
 public class DollarToINR {
     public static void main(String[] args) {
         Dollar dollar = new Dollar();
-        INRpriceAdapter ia= new INRpriceAdapter(dollar);
+        INRprice ia= new INRpriceAdapter(dollar);
         System.out.println(ia.getINRprice());
     }
 }

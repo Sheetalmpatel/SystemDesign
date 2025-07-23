@@ -17,11 +17,19 @@ class OldMediaPlayer {
     }
 }
 
+interface AdvanceMediaPlayer {
+    void playmp4(String type, String name);
+}
 
+class Mp4player implements AdvanceMediaPlayer {
+    @Override
+    public void playmp4(String type, String name) {
+        System.out.println("\nPlaying " + type + " file. Name: " + name);
+    }
+}
 interface MediaPlay {
     void play(String type, String name);
 }
-
 class UnifiedPlayer implements MediaPlay {
     
     @Override
