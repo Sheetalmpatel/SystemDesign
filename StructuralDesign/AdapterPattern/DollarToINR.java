@@ -1,9 +1,6 @@
-// Title: Adapter Pattern Example - Dollar to INR Currency Converter
 
-
-class DollarToINR {
+public class DollarToINR {
     public static void main(String[] args) {
-        System.out.println("Try programiz.pro");
         Dollar dollar = new Dollar();
         INRpriceAdapter ia= new INRpriceAdapter(dollar);
         System.out.println(ia.getINRprice());
