@@ -1,3 +1,6 @@
+//Title : Media Player Adapter Pattern
+// Author : sheetal
+
 public class MediaPlayer {
     public static void main(String[] args) {
         OldMediaPlayer oPlayer = new OldMediaPlayer();

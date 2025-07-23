@@ -1,3 +1,5 @@
+// Title : Media Player Unified Adapter Pattern
+// Author : sheetal
 public class MediaPlayerUnified {
     public static void main(String[] args) {
         // OldMediaPlayer oPlayer = new OldMediaPlayer();
