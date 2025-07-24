@@ -1,6 +1,6 @@
-package CreationalDesign.Prototypr;
+package CreationalDesign;
 
-public class GameEnemy {
+public class GameEnemyPrototype {
     public static void main(String[] args){
         Enemy e1 = new Enemy(1,"xyz");
         Enemy e2 = (Enemy) e1.clone();
